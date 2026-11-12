@@ -13,9 +13,9 @@ My main focus is on programming logic and developing efficient software solution
 ---
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAroot&langs_count=6&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
+  <img height="180" src="https://SEU-DOMINIO.vercel.app/api/top-langs/?username=MiguelSan-H&langs_count=6&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MiguelAroot&show_icons=true&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Miguel's GitHub Stats" />
+  <img height="180" src="https://SEU-DOMINIO.vercel.app/api?username=MiguelSan-H&show_icons=true&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Miguel's GitHub Stats" />
 </p>
