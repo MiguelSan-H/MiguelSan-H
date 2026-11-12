@@ -12,18 +12,10 @@ My main focus is on programming logic and developing efficient software solution
 
 ---
 
-### Technical Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,lua,py,mysql,html,css,bash" alt="Tech Stack" />
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAroot&langs_count=6&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
 </p>
 
-<br>
-
-### Contact
-
-<p align="left">
-  <a href="mailto:dev.miguelsan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dev.miguelsan@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MiguelAroot&show_icons=true&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Miguel's GitHub Stats" />
 </p>
