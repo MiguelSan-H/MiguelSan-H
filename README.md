@@ -10,12 +10,10 @@ I work on a variety of personal and academic projects, both independently and al
 
 My main focus is on programming logic and developing efficient software solutions. I am particularly passionate about **game development**, **competitive programming**, and **computer science** in general.
 
----
-
 <p align="center">
-  <img height="180" src="https://SEU-DOMINIO.vercel.app/api/top-langs/?username=MiguelSan-H&langs_count=6&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
+  <img height="180" src="https://SEU-DOMINIO.vercel.app/api/top-langs/?username=MiguelSan-H&langs_count=6&bg_color=0d1117&title_color=e3b341&text_color=c9d1d9&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://SEU-DOMINIO.vercel.app/api?username=MiguelSan-H&show_icons=true&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Miguel's GitHub Stats" />
+  <img height="180" src="https://SEU-DOMINIO.vercel.app/api?username=MiguelSan-H&show_icons=true&bg_color=0d1117&title_color=e3b341&icon_color=e3b341&ring_color=e3b341&text_color=c9d1d9&hide_border=true" alt="Miguel's GitHub Stats" />
 </p>
